@@ -1,5 +1,0 @@
-// Iterate over both arrays, merging their contents using a callback 
-
-export default function(array1,array2,options,callback) {
-  
-}
